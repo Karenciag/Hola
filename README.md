@@ -2,6 +2,8 @@
 
 The availability of acceleration sensors creates exciting new opportunities for data mining and predictive analytics applications. In this post, I will consider data from accelerometers to perform activity recognition.
 
+hahhahahahahahhahahaioaiiaia
+
 ## Data description
 We use labeled accelerometer data from users thanks to a device in their pocket during different activities 
 (walking, sitting, jogging, ascending stairs, descending stairs, and standing).
